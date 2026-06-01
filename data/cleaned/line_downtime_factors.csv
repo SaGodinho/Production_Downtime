@@ -1,0 +1,13 @@
+,Factor,Sum_dt_per_Factor,Description,Operator Error,Percentage,Downtime_Count,Waste Type
+0,1.0,0.0,Emergency stop,No,0.0,0,['Waiting']
+1,2.0,160.0,Batch change,Yes,14.15929203539823,5,['Extra-Processing']
+2,3.0,22.0,Labeling error,No,1.9469026548672566,1,['Defects']
+3,4.0,205.0,Inventory shortage,No,18.141592920353983,8,"['Inventory', 'Waiting']"
+4,5.0,57.0,Product spill,Yes,5.04424778761062,3,['Defects']
+5,6.0,197.0,Machine adjustment,Yes,17.43362831858407,8,['Extra-Processing']
+6,7.0,236.0,Machine failure,No,20.884955752212388,10,['Waiting']
+7,8.0,115.0,Batch coding error,Yes,10.176991150442477,5,['Defects']
+8,9.0,17.0,Conveyor belt jam,No,1.5044247787610618,1,['Waiting']
+9,10.0,34.0,Calibration error,Yes,3.0088495575221237,2,"['Defects', 'Extra-Processing']"
+10,11.0,20.0,Label switch,Yes,1.7699115044247788,2,['Defects']
+11,12.0,67.0,Other,No,5.929203539823009,5,['Undefined']
