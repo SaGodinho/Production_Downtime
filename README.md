@@ -1,6 +1,8 @@
 # Production_Downtime
 
-Data analysis project exploring production downtime events, operational performance, and downtime patterns of a drink manufacturing facility using Python and Power BI.
+This project presents a data-driven analysis of a bottled drink manufacturing facility with the objective of identifying the main sources of productivity loss, operational waste, and equipment downtime. Using Lean Manufacturing and Six Sigma principles, the analysis combines production and downtime records to evaluate operational efficiency and uncover opportunities for process improvement.
+
+The study focuses on quantifying downtime, evaluating process performance, identifying root causes of inefficiencies, and assessing Overall Equipment Effectiveness (OEE).
 
 ## Live Project
 
@@ -16,15 +18,16 @@ https://github.com/SaGodinho/Production_Downtime
 
 ## Project Overview
 
-This project analyzes production downtime data to identify:
+Manufacturing profitability depends heavily on maximizing productive machine time while minimizing operational waste and downtime. Excessive downtime directly reduces throughput, increases operational costs, and lowers equipment utilization.
 
-- Major causes of downtime
-- Downtime trends over time
-- Production efficiency
-- Key operational bottlenecks
-- Opportunities for process improvement
+This project aims to answer the following questions:
 
-The analysis combines Python-based data exploration with data visualization techniques to generate actionable business insights.
+- What are the main drivers of productivity loss?
+- Which downtime factors contribute the most to lost production time?
+- Are there operator-specific performance differences?
+- Do different products significantly affect production performance?
+- What Lean wastes are most prevalent?
+- What improvement opportunities would generate the highest business impact?
 
 ---
 
