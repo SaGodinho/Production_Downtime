@@ -32,29 +32,38 @@ This project aims to answer the following questions:
   Cola 2L takes the most time to produce. If we normalize the values, Cola 2L and Cola 600ml managed to stay closer to the ideal production cycle time.
   
 - **What Lean wastes are most prevalent?**
-  Predominantly Waiting and Defects, both of which might be causing synergistic chaos: the more delays (Waiting), the more rush there is afterwards to keep up, the higher the potential for mistakes (Defects). The more Defects, the more time needed on repair and rework (increasing waiting time).
+  Predominantly Waiting and Defect: the more delays (Waiting), the more rush there is afterwards to keep up, the higher the potential for mistakes (Defects). The more Defects, the more time needed on repair and rework (increasing waiting time).
+
+### Improvement Opportunities
+**Maintenance Optimization**
   
-- **What improvement opportunities would generate the highest business impact?**
--- Autonomous Maintenance: Train operators to perform simples tasks of machine maintenance and most common repairs,
--- Preventive Scheduling: Schedule maintenance based on machine runtime,
--- Optimize Prep Time by having the necessary gear closer, well stored, having set and clear procedures,
--- Apply forecasting systems to better predict inventory shortages - order more material preventively, produce another product instead of being idle
--- Keep Buffer Inventory.
+Implement Autonomous Maintenance (operator-led basic maintenance tasks)
+
+Introduce preventive maintenance scheduling based on machine runtime
+
+**Inventory & Material Flow**
+
+Improve forecasting to reduce inventory shortages
+
+Maintain buffer stock to avoid production stops
+
+Optimize material positioning to reduce prep and waiting time
+
+**Process Efficiency**
+
+Standardize setup procedures
+
+Reduce changeover and preparation delays
+
+Improve workflow organization to minimize idle time
+
 
 - **What is the operational state of the company?**
+
   With an Availability of ~64% , the manufacturing process could use improvement and is bellow typical industry standards. This means over a thrid of the time is lost and not generating profit.
 
 ---
 
-## Objectives
-
-- Clean and prepare production datasets
-- Explore downtime patterns
-- Identify high-impact downtime causes
-- Measure operational performance
-- Communicate findings through visualizations
-
----
 
 ## Tools & Technologies
 
