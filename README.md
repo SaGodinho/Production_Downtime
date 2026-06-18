@@ -23,10 +23,10 @@ Manufacturing profitability depends heavily on maximizing productive machine tim
 This project aims to answer the following questions:
 
 - **What are the main drivers of productivity loss?**
-  Machine Failure and Inventory Shortage account for most downtime according to Pareto analysis- both non-added-value activities that are also not operator driven.
+  Machine Failure and Inventory Shortage account for most downtime (a total of 40%) according to Pareto analysis- both non-added-value activities that are also not operator driven.
   
 - **Are there operator-specific performance differences?**
-  Analysis concluded that not really - competence is evenly spread across the workforce.
+  Analysis concluded that differences are not significant - competence is evenly spread across the workforce.
   
 - **Do different products significantly affect production performance?**
   Cola 2L takes the most time to produce. If we normalize the values, Cola 2L and Cola 600ml managed to stay closer to the ideal production cycle time.
