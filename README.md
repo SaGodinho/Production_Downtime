@@ -23,7 +23,7 @@ Manufacturing profitability depends heavily on maximizing productive machine tim
 This project aims to answer the following questions:
 
 - **What are the main drivers of productivity loss?**
-  Machine Failure and Inventory Shortage - both non-added-value activities that are also not operator driven.
+  Machine Failure and Inventory Shortage account for most downtime according to Pareto analysis- both non-added-value activities that are also not operator driven.
   
 - **Are there operator-specific performance differences?**
   Analysis concluded that not really - competence is evenly spread across the workforce.
@@ -40,6 +40,9 @@ This project aims to answer the following questions:
 - Optimize Prep Time by having the necessary gear closer, well stored, having set and clear procedures,
 - Apply forecasting systems to better predict inventory shortages - order more material preventively, produce another product instead of being idle
 - Keep Buffer Inventory.
+
+- **What is the operational state of the company?**
+  With an Availability of ~64% , the manufacturing process could use improvement and is bellow typical industry standards. This means over a thrid of the time is lost and not generating profit.
 
 ---
 
