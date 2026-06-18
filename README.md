@@ -22,12 +22,24 @@ Manufacturing profitability depends heavily on maximizing productive machine tim
 
 This project aims to answer the following questions:
 
-- What are the main drivers of productivity loss?
-- Which downtime factors contribute the most to lost production time?
-- Are there operator-specific performance differences?
-- Do different products significantly affect production performance?
-- What Lean wastes are most prevalent?
-- What improvement opportunities would generate the highest business impact?
+- **What are the main drivers of productivity loss?**
+  Machine Failure and Inventory Shortage - both non-added-value activities that are also not operator driven.
+  
+- **Are there operator-specific performance differences?**
+  Analysis concluded that not really - competence is evenly spread across the workforce.
+  
+- **Do different products significantly affect production performance?**
+  Cola 2L takes the most time to produce. If we normalize the values, Cola 2L and Cola 600ml managed to stay closer to the ideal production cycle time.
+  
+- **What Lean wastes are most prevalent?**
+  Predominantly Waiting and Defects, both of which might be causing synergistic chaos: the more delays (Waiting), the more rush there is afterwards to keep up, the higher the potential for mistakes (Defects). The more Defects, the more time needed on repair and rework (increasing waiting time).
+  
+- **What improvement opportunities would generate the highest business impact?**
+- Autonomous Maintenance: Train operators to perform simples tasks of machine maintenance and most common repairs,
+- Preventive Scheduling: Schedule maintenance based on machine runtime,
+- Optimize Prep Time by having the necessary gear closer, well stored, having set and clear procedures,
+- Apply forecasting systems to better predict inventory shortages - order more material preventively, produce another product instead of being idle
+- Keep Buffer Inventory.
 
 ---
 
